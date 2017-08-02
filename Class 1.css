@@ -1,0 +1,96 @@
+/* Main CSS */ 
+
+html{
+   font-family: Arial, Helvetica, sans-serif !important;
+}
+
+/* Header CSS */ 
+
+#head1{
+	display: inline-block;
+	background-color: #aaaaaa;
+	width: 100%;
+	height: 100%;
+
+}
+
+#head1 p, h1{
+	color: #ffffff;
+	padding: 1%;
+}
+
+/* navigation menu CSS */ 
+
+#nav1{
+	display: inline-block;
+	background-color: #bbbbbb;
+	width: 100%;
+	height: 100%;
+
+}
+
+#nav1 p, h1{
+	color: #ffffff;
+	padding: 1%;
+}
+
+#nav1 li, a{
+	display: inline;
+	color: #ffffff;
+
+}
+
+#nav1 ol{
+	padding: 1%;
+}
+
+/* section1 CSS */ 
+
+#section1{
+	display: inline-block;
+	background-color: #487392;
+	width: 100%;
+	height: 100%;
+	
+}
+
+#section1 h1{
+	color: #ffffff;
+	padding: 1%;
+
+}
+
+#section1 h2{
+	color: #ffffff;
+	padding: 1%;
+
+}
+
+#section1 p, li{
+	color: #ffffff;
+	padding: 1%;
+
+}
+
+#foot1{
+	display: inline-block;
+	background-color: #112345;
+	width: 100%;
+	height: 100%;
+
+}
+
+/* Footer CSS */ 
+
+#foot1 p{
+	display: inline-block;
+	color: #ffffff;
+	padding: 1%;
+
+}
+
+#foot1 ul{
+	display: inline-block;
+	color: #ffffff;
+
+}
